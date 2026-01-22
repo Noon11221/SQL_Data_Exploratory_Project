@@ -6,7 +6,7 @@ The objective is to uncover patterns, trends, and insights related to layoffs ac
 
 All analysis is performed using **SQL in PostgreSQL**, leveraging aggregation functions, date functions, and window functions to analyze the data from multiple perspectives.
 
-Check SQL queries out here: [data_exploratoty folder](/data_exploratory/coding.sql)
+Check SQL queries out here: [data_exploratoty folder](/data_exploratory/scripts.sql)
 
 ---
 
